@@ -23,3 +23,9 @@
 ```
 npm install -D tailwindcss
 ```
+
+- Iniciar o TailwindCSS (Criar o arquivo `tailwind.config.js`)
+
+```
+npx tailwindcss init
+```
