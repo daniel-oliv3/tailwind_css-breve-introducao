@@ -8,3 +8,18 @@
 
 - Tailwind CSS
     - Site: https://tailwindcss.com/
+- Bootstrap
+    - Site: https://getbootstrap.com/
+
+
+**Instalando o Tailwind CSS**
+
+- Site: https://tailwindcss.com/docs/installation
+- Node
+- TailwindCSS
+
+- Instalar no terminal no vscode
+
+```
+npm install -D tailwindcss
+```
