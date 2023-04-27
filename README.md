@@ -29,3 +29,8 @@ npm install -D tailwindcss
 ```
 npx tailwindcss init
 ```
+
+- Comando
+```
+npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
+```
