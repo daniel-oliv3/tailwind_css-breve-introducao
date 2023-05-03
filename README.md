@@ -69,6 +69,7 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
     - Site: https://tailwindcss.com/
 
 
+
 **Instalação do Tailwind CLI**
 
 - Instalar o NodeJS
@@ -82,6 +83,26 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
 ```
 node -v
 ```
+
+- Instalar o tailwindcss
+    - Site: https://tailwindcss.com/docs/installation
+
+
+- Comando (terminal)
+
+```
+npm install tailwindcss
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
