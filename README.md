@@ -54,6 +54,8 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
 ##
 
 
+### INTRODUÇÃO
+
 **TailwindCSS**
 
 
@@ -94,18 +96,22 @@ node -v
 npm install tailwindcss
 ```
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 - Exemplo
     - tailwind_css-01
+
+
+
+
+
+
+
+
+
+### 2 - CÓDIGO GENÉRICO DO SISTEMA E DUAS EXTENSÕES
+
+<p align="center">
+  <img alt="...." src="./assets/tailwindcss_src_file.jpg" width="70%">
+</p>
+
+- Exemplo
+    - tailwind_css-02
