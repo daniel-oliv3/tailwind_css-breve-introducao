@@ -34,3 +34,38 @@ npx tailwindcss init
 ```
 npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
 ```
+
+**Text Color**
+
+- https://tailwindcss.com/docs/text-color
+
+**Center Text**
+
+- https://tailwindcss.com/docs/text-align#setting-the-text-alignment
+
+
+
+
+
+
+##
+### TailwindCSS Para Iniciantes
+##
+
+
+**TailwindCSS**
+
+
+**O que é o tailwindcss?**
+
+- É uma *framework* de CSS baseada no conceito utility-first
+- É diferente do Bootstrap, MaterialUI, etc...
+- Essas bibliotecas são mais "opinativas"
+- O tailwindcss aplica várias classes no mesmo elemento
+
+
+- Tailwind CSS
+    - Site: https://tailwindcss.com/
+
+
+- tailwind_css-01
