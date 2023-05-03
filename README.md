@@ -44,7 +44,9 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
 - https://tailwindcss.com/docs/text-align#setting-the-text-alignment
 
 
-
+##
+### ____________________________________________________________________________________________
+##
 
 
 
@@ -68,4 +70,22 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
     - Site: https://tailwindcss.com/
 
 
-- tailwind_css-01
+**Instalação do Tailwind CLI**
+
+- Instalar o NodeJS
+
+- NodeJS
+    - Site: https://nodejs.org/en
+
+
+- Verificar a versão do nodejs instalado (terminal)
+
+```
+node -v
+```
+
+
+
+
+- Exemplo
+    - tailwind_css-01
