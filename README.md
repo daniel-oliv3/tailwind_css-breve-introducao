@@ -14,9 +14,12 @@
 
 **Instalando o Tailwind CSS**
 
-- Site: https://tailwindcss.com/docs/installation
-- Node
+- Instalar o NodeJS
+- NodeJS
+    - Site: https://nodejs.org/en
+
 - TailwindCSS
+    - Site: https://tailwindcss.com/docs/installation
 
 - Instalar no terminal no vscode
 
@@ -54,7 +57,7 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
 ##
 
 
-### INTRODUÇÃO
+### 1 - INTRODUÇÃO
 
 **TailwindCSS**
 
@@ -113,5 +116,97 @@ npm install tailwindcss
   <img alt="...." src="./assets/tailwindcss_src_file.jpg" width="70%">
 </p>
 
+- Inicia o Tailwind no projeto (`tailwind.config.js`)
+```
+npx tailwindcss init 
+```
+
+**Utility-First Fundamentals**
+
+- Utility-First: https://tailwindcss.com/docs/utility-first
+
+- Extenção VSCode
+    - `Live Server`
+    - settings/full reload/checked
+    - `Tailwind CSS IntelliSense`
+`
+
 - Exemplo
     - tailwind_css-02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
