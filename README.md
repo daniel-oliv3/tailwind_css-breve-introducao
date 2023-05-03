@@ -44,9 +44,8 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
 - https://tailwindcss.com/docs/text-align#setting-the-text-alignment
 
 
-##
+
 ### ____________________________________________________________________________________________
-##
 
 
 
