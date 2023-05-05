@@ -93,7 +93,7 @@ node -v
     - Site: https://tailwindcss.com/docs/installation
 
 
-- Comando (terminal)
+- Passo 1 - Comando (terminal)
 
 ```
 npm install tailwindcss
@@ -116,7 +116,9 @@ npm install tailwindcss
   <img alt="...." src="./assets/tailwindcss_src_file.jpg" width="70%">
 </p>
 
-- Inicia o Tailwind no projeto (`tailwind.config.js`)
+
+- Passo 1 
+- Inicia o Tailwind no projeto (terminal) (`tailwind.config.js`)
 ```
 npx tailwindcss init 
 ```
@@ -137,8 +139,30 @@ npx tailwindcss init
 
 
 
+### 3 - ORGANIZAÇÃO DO PROJETO INICIAL E TAILWIND CONFIG
 
 
+- Functions and Directives:
+    - Link: https://tailwindcss.com/docs/functions-and-directives
+
+
+- Passo 2
+- `tailwind.config.js`
+```
+'./build/*.html'
+```
+
+- Passo 3 
+    Link - https://tailwindcss.com/docs/installation
+
+- Passo 4
+```
+npx tailwindcss -i ./src/input.css -o ./build/assets/css/app.css --watch
+```
+
+
+- Exemplo
+    - tailwind_css-03
 
 
 
