@@ -93,7 +93,8 @@ node -v
     - Site: https://tailwindcss.com/docs/installation
 
 
-- Passo 1 - Comando (terminal)
+- Passo 1 
+    - Comando (terminal)
 
 ```
 npm install tailwindcss
@@ -147,15 +148,17 @@ npx tailwindcss init
 
 
 - Passo 2
-- `tailwind.config.js`
+    - `tailwind.config.js`
+
 ```
 './build/*.html'
 ```
 
 - Passo 3 
-    Link - https://tailwindcss.com/docs/installation
+    - Link - https://tailwindcss.com/docs/installation
 
 - Passo 4
+
 ```
 npx tailwindcss -i ./src/input.css -o ./build/assets/css/app.css --watch
 ```
