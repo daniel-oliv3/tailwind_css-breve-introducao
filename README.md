@@ -52,6 +52,10 @@ npx tailwindcss -i ./src/input.css -o ./app/assets/css/app.css --watch
 
 
 
+
+
+
+
 ##
 ### TailwindCSS Para Iniciantes
 ##
@@ -102,11 +106,6 @@ npm install tailwindcss
 
 - Exemplo
     - tailwind_css-01
-
-
-
-
-
 
 
 
@@ -169,10 +168,11 @@ npx tailwindcss -i ./src/input.css -o ./build/assets/css/app.css --watch
 
 
 
+### 4 - PRIMEIROS DESENVOLVIMENTOS COM A FRAMEWORK
 
 
-
-
+- Exemplo
+    - tailwind_css-04
 
 
 
